@@ -2,7 +2,10 @@
 title: Spring Sessions 2021
 date: 2021-03-31T22:29:58.411Z
 image: /images/spring-2021.png
-draft: true
+tags:
+  - News
+  - Spring Session
+draft: false
 ---
 ## Spring Sessions are back!
 
