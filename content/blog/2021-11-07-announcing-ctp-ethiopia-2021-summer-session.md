@@ -1,6 +1,6 @@
 ---
 title: Announcing CTP Ethiopia 2021 Summer Session
-date: 2021-11-07T23:51:32.279Z
+date: 2021-06-04T22:51:32.279Z
 image: /images/summersession_poster-768x1024.jpeg
 tags:
   - Apply
