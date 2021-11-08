@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# CTP NEWS
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> Powered by [CTP ETHIOPIA INC](https://www.ctpethiopia.org).
