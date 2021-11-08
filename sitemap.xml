@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/blog/announcing-ctp-ethiopia-2021-summer-session/</loc>
+    <loc>/</loc>
     <lastmod>2021-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>/blog/announcing-ctp-ethiopia-2021-summer-session/</loc>
     <lastmod>2021-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -21,6 +21,12 @@
   <url>
     <loc>/blog/ctp-alumni-whereabouts/</loc>
     <lastmod>2021-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/blog/spring-sessions-update/</loc>
+    <lastmod>2021-04-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
