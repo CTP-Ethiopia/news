@@ -1,5 +1,8 @@
 baseline: Updates from CTP
-theme: []
+theme:
+  - hyde
+  - netlify
+  - netlify-cms
 keywords:
   - Cecil
   - Static Site Generator
