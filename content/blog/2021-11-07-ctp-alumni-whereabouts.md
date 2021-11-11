@@ -34,4 +34,4 @@ Congratulations to you all! We are so proud of you! All of your efforts and pass
 
 Let the passion, goals, and hard work continue and we can’t wait to see you do monumental things.
 
-> To learn more about CTP and what we do, visit this [page](https://ctpethiopia.org/about) and we would like to invite you to [contribute](https://ctpethiopia.org/donate) what you can to help us reach more students.
+> To learn more about CTP and what we do, visit this [page](https://ctpethiopia.org/about) and we would like to invite you to [contribute](https://pod.ctpethiopia.org/pages/donate) what you can to help us reach more students.
